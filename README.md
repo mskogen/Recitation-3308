@@ -1,2 +1,3 @@
 # Recitation-3308
-Lab 4 CSCI3308
+Author: Matthew Skogen
+Assignment: Lab 4 Version Control CSCI3308
